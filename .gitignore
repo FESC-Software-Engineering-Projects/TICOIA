@@ -18,3 +18,4 @@ _pdf_extract.txt
 *.njsproj
 *.sln
 *.sw?
+.env*
